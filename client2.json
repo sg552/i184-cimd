@@ -1,0 +1,1 @@
+{"client_id":"https://raw.githack.com/sg552/i184-cimd/main/client2.json","client_name":"i184cimd","redirect_uris":["http://127.0.0.1:8080/cb","https://172.104.66.125.sslip.io/cb"],"grant_types":["authorization_code"],"token_endpoint_auth_method":"none"}
