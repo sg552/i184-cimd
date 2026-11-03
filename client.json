@@ -1,0 +1,1 @@
+{"client_id":"https://cdn.jsdelivr.net/gh/sg552/i184-cimd@main/client.json","client_name":"i184cimd","redirect_uris":["http://127.0.0.1:8080/cb","https://172.104.66.125.sslip.io/cb","https://cdn.jsdelivr.net/gh/sg552/i184-cimd@main/cb"],"grant_types":["authorization_code"],"token_endpoint_auth_method":"none"}
